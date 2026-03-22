@@ -1,0 +1,10 @@
+node_modules/
+.env
+relatorios/*.csv
+logs/*.log
+
+package-lock.json
+.DS_Store
+*.swp
+*.swo
+*~
